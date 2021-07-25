@@ -9,5 +9,13 @@ records=[
     records = [
       "f04bdaa8e0"
     ]
+  },
+  {
+    name    = "@"
+    type    = "TXT"
+    ttl     = 3600
+    records = [
+      "MS=ms23147044"
+    ]
   }
 ]
